@@ -634,12 +634,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/1541
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Tigo Sports C.R HD" tvg-logo="https://www.tigo.cr/sites/tigodiscovery.cr/files/logo-app-tigosports-destacado.png" group-title="COSTA RICA",Costa Rica | Tigo Sports C.R HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/1550
 
-#EXTINF:-1 tvg-id="" tvg-name="CUBA |  CUBAMAX" tvg-logo="https://miami.hispanocity.com/wp-content/uploads/2017/11/cubamax_logo.png" group-title="CUBA",CUBA |  CUBAMAX
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/2250
-#EXTINF:-1 tvg-id="" tvg-name="CUBA |  CUBAVISION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Cubavisi%C3%B3nPlus2018.png/revision/latest/scale-to-width-down/2000?cb=20190822001726" group-title="CUBA",CUBA |  CUBAVISION
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/2251
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | TELEMARTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="CUBA",CUBA | TELEMARTI
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/2252
+
 #EXTINF:-1 tvg-id="" tvg-name="DANCE EDM" tvg-logo="http://51.79.79.106/musicc/logo.png" group-title="MUSIC CHOICE",DANCE EDM
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/2775
 
@@ -832,8 +827,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/1429
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/88304
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GOLTV ECUADOR (EXCLUSIVO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR",ECUADOR | GOLTV ECUADOR (EXCLUSIVO 2)
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/88305
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GOL TV HD opc 4 Exclusivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="LIGA ECUADOR ",ECUADOR | GOL TV HD opc 4 Exclusivo
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/88306
+
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Oromar TV FHD" tvg-logo="http://144.217.91.146/Logos/Ecuador/oromar-tv.png" group-title="ECUADOR",ECUADOR | Oromar TV FHD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/1410
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Oromar TV HD" tvg-logo="http://144.217.91.146/Logos/Ecuador/oromar-tv.png" group-title="ECUADOR",ECUADOR | Oromar TV HD
@@ -1997,8 +1991,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38641
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38643
 #EXTINF:-1 tvg-id="" tvg-name="CAR: CNS | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/CNS.png" group-title="CARIBBEAN",CAR: CNS | SD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38644
-#EXTINF:-1 tvg-id="" tvg-name="CAR: CUBA VISION | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/Cubavision-Internacional.jpg" group-title="CARIBBEAN",CAR: CUBA VISION | SD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38647
+
 #EXTINF:-1 tvg-id="8" tvg-name="CAR: CVM TV | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/CVM.jpg" group-title="CARIBBEAN",CAR: CVM TV | SD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38648
 #EXTINF:-1 tvg-id="" tvg-name="CAR: DUDE | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/DUDE.jpg" group-title="CARIBBEAN",CAR: DUDE | SD
@@ -4065,8 +4058,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81620
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81710
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal Vintage Music" tvg-logo="" group-title="COSTA RICA",Costa Rica | Canal Vintage Music
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81711
-#EXTINF:-1 tvg-id="" tvg-name="CUBA | Cubavision Internacional" tvg-logo="https://i.imgur.com/5AkKb8h.png" group-title="CUBA",CUBA | Cubavision Internacional
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81712
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Hangover (ES)" tvg-logo="https://i.imgur.com/2zwCP3z.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 The Hangover (ES)
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81713
 #EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | Canal 9 Multivision" tvg-logo="https://multivision.tv/wp-content/uploads/2020/07/9.jpg" group-title="ARGENTINA ",ARGENTINA | Canal 9 Multivision
