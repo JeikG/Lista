@@ -1272,20 +1272,16 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/36820
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/36821
 #EXTINF:-1 tvg-id="" tvg-name="MTV LATINO HD" tvg-logo="https://ugc.kn3.net/i/760x/http://3.bp.blogspot.com/_EkZRG5D9JMk/TFddzD3R6sI/AAAAAAAABuQ/Q0387vf8jc4/s1600/mtv-logo.jpg" group-title="MUSIC CHOICE",MTV LATINO HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/36823
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Campus tv" tvg-logo="http://live.campushd.tv/wp-content/uploads/2019/05/logo-1.png" group-title="HONDURAS",HONDURAS | Campus tv
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/36983
-#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK: Talking Pictures TV | HD" tvg-logo="https://i.imgur.com/qTokxaG.jpg" group-title="UK",UK: Talking Pictures TV | HD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/37145
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 21" tvg-logo="https://scotlandyard.at/fileadmin/user_upload/unnamed.jpg" group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | SKY SPORTS 21
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/37173
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SKY SPORTS 16" tvg-logo="https://scotlandyard.at/fileadmin/user_upload/unnamed.jpg" group-title="DEPORTES HD / SPORTS HD (SPA)",DEPORTES HD | SKY SPORTS 16
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/37174
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MEXICO |  BITME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="MEXICO",MEXICO |  BITME
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/37412
+
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica | FUTV GRITALO" tvg-logo="https://icdn2.crhoy.net/w/600/h/450/q/95/png/0/c/1/s/pull.crhoy.net/imagenes/2020/02/futv.jpg" group-title="COSTA RICA",Costa Rica | FUTV GRITALO
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/37415
-#EXTINF:-1 tvg-id="CA: CHCH" tvg-name="CANADA | CHCH HD" tvg-logo="https://live.staticflickr.com/65535/49518830153_40ed1cc8c9_t.jpg" group-title="CANADA (EN)",CANADA | CHCH HD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/37459
+
 #EXTINF:-1 tvg-id="" tvg-name="Coronavirus COVID-19 Stats" tvg-logo="https://mouse.latercera.com/wp-content/uploads/2020/01/Coronavirus-web-site.png" group-title="CORONAVIRUS ESTADÍSTICAS / STATISTICS",Coronavirus COVID-19 Stats
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/37846
 #EXTINF:-1 tvg-id="" tvg-name="24/7:: Vikings | HD" tvg-logo="" group-title="USA 24/7 (ENG) | CANALES 24/7 (ING) ",24/7:: Vikings | HD
@@ -1487,8 +1483,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38799
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/39366
 #EXTINF:-1 tvg-id="abc.wabc.new.york.ny.us" tvg-name="USA | FOX MIAMI" tvg-logo="" group-title="USA",USA | FOX MIAMI
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/39385
-#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/175px-Cnn_logo_red_background.png" group-title="UK",UK: CNN INTERNATIONAL
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/39872
+
 #EXTINF:-1 tvg-id="metv.network.us" tvg-name="USA | ME TV | HD" tvg-logo="https://metvcdn.metv.com/K7XBG-1567718383-142-uploader-FB_MeTV.jpg" group-title="USA",USA | ME TV | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/39873
 #EXTINF:-1 tvg-id="" tvg-name="USA NEWS | MSNBC FHD" tvg-logo="" group-title="NOTICIAS / NEWS",USA NEWS | MSNBC FHD
@@ -1505,12 +1500,8 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/39967
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/39969
 #EXTINF:-1 tvg-id="" tvg-name="USA | CBN EN ESPAÑOL" tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/cbnblue.jpg" group-title="RELIGION",USA | CBN EN ESPAÑOL
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/39970
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | Bethel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Betheltv2018.png/revision/latest?cb=20180307155922" group-title="COSTA RICA",COSTA RICA | Bethel
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/40069
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | Mega TVR" tvg-logo="https://pbs.twimg.com/profile_images/998619265849671680/A8Yo5_56_400x400.jpg" group-title="COSTA RICA",COSTA RICA | Mega TVR
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/40070
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | ASAMBLEA NACIONAL TV" tvg-logo="https://www.asamblea.gob.pa/themes/asam_theme/images/logoAsamblea.png" group-title="PANAMA",PANAMA | ASAMBLEA NACIONAL TV
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/40073
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PAN | 3ABN LATINO" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/latino-png.png" group-title="RELIGION",PAN | 3ABN LATINO
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/40074
 #EXTINF:-1 tvg-id="" tvg-name="ALE NEWS | DW ESPANOL" tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="NOTICIAS / NEWS",ALE NEWS | DW ESPANOL
@@ -2083,17 +2074,13 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42070
 #EXTINF:-1 tvg-id="" tvg-name="USA |  GRIT TV | SD" tvg-logo="https://pbs.twimg.com/profile_images/541779904631943169/bS0m4c_9_400x400.jpeg" group-title="USA",USA |  GRIT TV | SD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42297
 
-#EXTINF:-1 tvg-id="SP: MSG2 PLUS" tvg-name="PT | RTP INTERNATIONAL | HD" tvg-logo="https://live.staticflickr.com/65535/49471300233_6b61da5570_t.jpg" group-title="PORTUGAL",PT | RTP INTERNATIONAL | HD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42427
+
 #EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="US: MSG 2 | HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/07/msg.png" group-title="USA SPORTS",US: MSG 2 | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42428
 #EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="US: MSG PLUS | HD" tvg-logo="https://live.staticflickr.com/65535/49471788191_c97a94f496_t.jpg" group-title="USA SPORTS",US: MSG PLUS | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42429
 
-#EXTINF:-1 tvg-id="" tvg-name="RD  | ZOL FM TV" tvg-logo="https://i.imgur.com/jh7AzSt.png" group-title="REPÚBLICA DOMINICANA ",RD  | ZOL FM TV
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42694
-#EXTINF:-1 tvg-id="" tvg-name="RD |  ZTV" tvg-logo="https://i.imgur.com/sW7AOpY.jpg" group-title="REPÚBLICA DOMINICANA ",RD |  ZTV
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42695
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Películas infantiles" tvg-logo="https://i.imgur.com/IZSvtW8.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Películas infantiles
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/42878
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Películas de animación" tvg-logo="https://es.web.img3.acsta.net/newsv7/20/02/05/15/41/1959378.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Películas de animación
@@ -2117,10 +2104,8 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/43853
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/44131
 #EXTINF:-1 tvg-id="US: ANTENNA TV" tvg-name="USA | ANTENNA TV | SD" tvg-logo="https://live.staticflickr.com/65535/49514130291_4d748080e8_c.jpg" group-title="USA",USA | ANTENNA TV | SD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/44132
-#EXTINF:-1 tvg-id="UK: EIR SPORT 1" tvg-name="UK: Eir Sport 1 | UHD" tvg-logo="https://live.staticflickr.com/65535/49501472746_0016024d77_m.jpg" group-title="UK",UK: Eir Sport 1 | UHD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/44149
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 2 | UHD" tvg-logo="https://live.staticflickr.com/65535/49501472746_0016024d77_m.jpg" group-title="UK",UK: Eir Sport 2 | UHD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/44150
+
+
 #EXTINF:-1 tvg-id="el.rey.network.us" tvg-name="USA | El Rey Network HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/El_Rey_Network.png" group-title="USA",USA | El Rey Network HD 
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/44229
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ThunderCats (ES)" tvg-logo="https://i.pinimg.com/originals/91/ed/32/91ed3266f76790058de45b9c85ffea33.png" group-title="DIBUJOS ANIMADOS 24/7 | CARTOONS 24/7 (SPA)",24/7 ThunderCats (ES)
@@ -2135,20 +2120,14 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/45388
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/45501
 #EXTINF:-1 tvg-id="" tvg-name="CAR: TV6 | HD" tvg-logo="https://25xvvp9qksr39jp1815u6s1l-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/CCN-TV6.jpg" group-title="CARIBBEAN",CAR: TV6 | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/45573
-#EXTINF:-1 tvg-id="wild.pursuit.network.ca" tvg-name="CA: WILD TV | SD" tvg-logo="https://live.staticflickr.com/65535/49514746517_bc744b570a_t.jpg" group-title="CANADA (EN)",CA: WILD TV | SD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/45700
+
 #EXTINF:-1 tvg-id="US: HLN" tvg-name="US: HLN | HD" tvg-logo="https://live.staticflickr.com/65535/49503879773_ce30736cc9_o.jpg" group-title="USA",US: HLN | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/45701
 
-#EXTINF:-1 tvg-id="" tvg-name="RD | Telecontacto" tvg-logo="https://dominicanchannels.net/wp-content/uploads/2014/09/telecontacto57.png" group-title="REPÚBLICA DOMINICANA ",RD | Telecontacto
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/46572
-#EXTINF:-1 tvg-id="Canal.6.cr" tvg-name="Costa Rica | Repretel 6 HD OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/LogoRepretelC6.png" group-title="COSTA RICA",Costa Rica | Repretel 6 HD OPC 2
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/46573
+
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="ESPAÑA |  24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",ESPAÑA |  24 HORAS
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/46574
 
-#EXTINF:-1 tvg-id="" tvg-name="MEXICO | CANCUN CANAL 10" tvg-logo="https://www.canal10.tv/assets/Logo2.png" group-title="MEXICO",MEXICO | CANCUN CANAL 10
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/49336
 #EXTINF:-1 tvg-id="" tvg-name="CINE | CINE LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE SD (ESP) / CINEMA SD (SPA)",CINE | CINE LATINO
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/49337
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="USA Latino | Univision Orlando HD" tvg-logo="https://static.wixstatic.com/media/f53bad_fd64d24187a948b886c1167a41cd8a15~mv2.jpg/v1/fill/w_639,h_376,al_c,lg_1,q_85/f53bad_fd64d24187a948b886c1167a41cd8a15~mv2.webp" group-title="USA LATINO",USA Latino | Univision Orlando HD
@@ -2611,8 +2590,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/72363
 #EXTINF:-1 tvg-id="fox.wsvn.miami.fl.us" tvg-name="USA | FOX NEWS" tvg-logo="" group-title="USA LOCAL ",USA | FOX NEWS
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/8607
 
-#EXTINF:-1 tvg-id="" tvg-name="RD | HITS 360" tvg-logo="https://i.imgur.com/C8SiS2p.png" group-title="REPÚBLICA DOMINICANA ",RD | HITS 360
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/72507
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX FHD ( DUAL AUDIO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | FX FHD ( DUAL AUDIO)
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/72509
 
@@ -2809,8 +2787,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/9077
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/73047
 #EXTINF:-1 tvg-id="" tvg-name="US: NBC 31 (ORLANDO) | HD" tvg-logo="" group-title="USA LOCAL ",US: NBC 31 (ORLANDO) | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/73048
-#EXTINF:-1 tvg-id="etc.chile.cl" tvg-name="CHILE | ETC TV CHILE" tvg-logo="https://i.imgur.com/qkHOZkK.png" group-title="CHILE",CHILE | ETC TV CHILE
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/73049
+
 
 #EXTINF:-1 tvg-id="FOX CINCINNATI OH WXIX" tvg-name="US: FOX 19 (CINCINNATI) | HD" tvg-logo="https://i.imgur.com/reg6XDx.png" group-title="USA LOCAL ",US: FOX 19 (CINCINNATI) | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/73054
@@ -3118,8 +3095,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81269
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81270
 #EXTINF:-1 tvg-id="KRNV" tvg-name="US: NBC 7 (RENO) | SD" tvg-logo="http://visiona4ktv.online:25461/images/c0ad9afbc8a969a70658bc3ae9f52847.jpg" group-title="USA LOCAL ",US: NBC 7 (RENO) | SD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81271
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png" group-title="ITALY SPORTS",IT: Rai Sport HD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81272
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Basado en Hechos Reales " tvg-logo="https://i.imgur.com/gFomGP6.jpg" group-title="CANALES 24/7 (ESP) | CHANNELS 24/7 (SPA)",24/7 Basado en Hechos Reales 
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81278
 #EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN UHD" tvg-logo="https://i.imgur.com/VtTzcTa.png" group-title="USA SPORTS",USA | ESPN UHD
@@ -3339,16 +3315,8 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/83147
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/83156
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD (Latino)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="LIGA DE INGLATERRA (Premier League)",ESPN 1 FHD (Latino)
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/83157
-#EXTINF:-1 tvg-id="" tvg-name="SERIE A | ESPN 1 MEXICO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Serie_A_Logo_%28ab_2019%29.svg/468px-Serie_A_Logo_%28ab_2019%29.svg.png" group-title="LIGA ITALIANA",SERIE A | ESPN 1 MEXICO FHD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/83158
-#EXTINF:-1 tvg-id="" tvg-name="SERIE A | ESPN 2 MEXICO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Serie_A_Logo_%28ab_2019%29.svg/468px-Serie_A_Logo_%28ab_2019%29.svg.png" group-title="LIGA ITALIANA",SERIE A | ESPN 2 MEXICO FHD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/83159
-#EXTINF:-1 tvg-id="" tvg-name="SERIE A | ESPN 3 MEXICO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Serie_A_Logo_%28ab_2019%29.svg/468px-Serie_A_Logo_%28ab_2019%29.svg.png" group-title="LIGA ITALIANA",SERIE A | ESPN 3 MEXICO FHD
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/83160
-#EXTINF:-1 tvg-id="" tvg-name="RD | Sport vision canal 35" tvg-logo="https://i.imgur.com/Lv9rroQ.png" group-title="REPÚBLICA DOMINICANA ",RD | Sport vision canal 35
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/83232
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | CRTV" tvg-logo="https://thumbs.subefotos.com/6028dca17d77d91c02eb0e7df031e8c1o.jpg" group-title="COSTA RICA",Costa Rica | CRTV
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/85365
+
+
 #EXTINF:-1 tvg-id="newsmax.us" tvg-name="US: NEWSMAX TV | HD" tvg-logo="https://i.imgur.com/B2lJG2y.png" group-title="USA LOCAL ",US: NEWSMAX TV | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/85417
 #EXTINF:-1 tvg-id="" tvg-name="US: COWBOY CHANNEL | HD" tvg-logo="https://i.ibb.co/dBMjBcR/THE-COWBOY-CHANNEL.png" group-title="USA",US: COWBOY CHANNEL | HD
@@ -3872,8 +3840,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38481
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="PREMIUM |  TruTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="PREMIUM HD (SPA)",PREMIUM |  TruTV SD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/38480
 
-#EXTINF:-1 tvg-id="pe.M DEPORTES" tvg-name="PERU | M. DEPORTES HD (E)" tvg-logo="https://pbs.twimg.com/profile_images/1177963810403033089/9MVsHyac_400x400.jpg" group-title="PERU",PERU | M. DEPORTES HD (E)
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/7908
+
 
 #EXTINF:-1 tvg-id="caracol.cl" tvg-name="COLOMBIA | Caracol UHD (EXCLUSIVO)" tvg-logo="https://i.imgur.com/B9VM5Ny.png" group-title="COLOMBIA",COLOMBIA | Caracol UHD (EXCLUSIVO)
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/87062
@@ -4028,10 +3995,8 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81478
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81479
 #EXTINF:-1 tvg-id="" tvg-name="ELIM. SUR | SPORT TV 5 - PORTUGAL" tvg-logo="https://www.kindpng.com/picc/m/154-1542459_conmebol-logo-hd-png-download.png" group-title="ELIMINATORIAS SUDAMERICA",ELIM. SUR | SPORT TV 5 - PORTUGAL
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/81709
-#EXTINF:-1 tvg-id="" tvg-name="PERU | EXITOSA TV (EXCLUSIVO)" tvg-logo="https://static.radio.net/images/broadcasts/e3/6f/111315/1/c300.png" group-title="PERU",PERU | EXITOSA TV (EXCLUSIVO)
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/88059
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TCRT_2017_Costa_Rica.png" group-title="COSTA RICA",Costa Rica | Canal 13
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/88077
+
+
 #EXTINF:-1 tvg-id="hollywood.es" tvg-name="ESPAÑA | Hollywood SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="ESPAÑA CINE (SPAIN CINEMA)",ESPAÑA | Hollywood SD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/88135
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA CLASICO" tvg-logo="" group-title="CINE HD (ESP) / CINEMA HD (SPA)",CINE HD | DE PELICULA CLASICO
@@ -4162,20 +4127,9 @@ http://hispa-tv.com:25461/movie/h-user/C4U3M6qyfe/80671.mkv
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89179
 #EXTINF:-1 tvg-id="" tvg-name="US: THE CW CHARLOTTE | HD" tvg-logo="https://i.ibb.co/kx6LxSV/THE-CW-CHARLOTTE.png" group-title="USA LOCAL ",US: THE CW CHARLOTTE | HD
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89202
-#EXTINF:-1 tvg-id="" tvg-name="PERU | BHTV (EXCLUSIVO)" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="PERU",PERU | BHTV (EXCLUSIVO)
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89203
-#EXTINF:-1 tvg-id="" tvg-name="PERU | VNP NOTICIAS (EXCLUSIVO)" tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-vnp-vision-noticias-peru-en-vivo.jpg" group-title="PERU",PERU | VNP NOTICIAS (EXCLUSIVO)
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89204
-#EXTINF:-1 tvg-id="" tvg-name="PERU | Peru play tv" tvg-logo="https://i.imgur.com/Xgo1FCx.png" group-title="PERU",PERU | Peru play tv
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89263
-#EXTINF:-1 tvg-id="" tvg-name="Peru | Hatun TV" tvg-logo="https://i.ytimg.com/vi/ub2rhrU2F5w/maxresdefault.jpg" group-title="PERU",Peru | Hatun TV
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89389
-#EXTINF:-1 tvg-id="" tvg-name="Peru | +Cumbia TV" tvg-logo="" group-title="PERU",Peru | +Cumbia TV
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89390
-#EXTINF:-1 tvg-id="" tvg-name="Peru | Best Cable Music" tvg-logo="https://elmen.pe/wp-content/uploads/2020/06/7-2-RECOMENDADA.png" group-title="PERU",Peru | Best Cable Music
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89391
-#EXTINF:-1 tvg-id="" tvg-name="Peru | Best Cable Sport" tvg-logo="https://i.ytimg.com/vi/2kLpm4p8kK4/maxresdefault.jpg" group-title="PERU",Peru | Best Cable Sport
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89392
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PPV: The Winans: The Lost Concert with The Commissioned and Vanessa Bell Armstrong (01.14-9PM ET)" tvg-logo="https://i.ibb.co/RGnyrFD/PPV.png" group-title="PPV Events",PPV: The Winans: The Lost Concert with The Commissioned and Vanessa Bell Armstrong (01.14-9PM ET)
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89408
 #EXTINF:-1 tvg-id="" tvg-name="PPV: WRESTLING 01 | Devotion Championship Wrestling, Episode 44 (01.14-7:00PM ET)" tvg-logo="http://visiona4ktv.online:25461/images/d41d8c4d7ec7de29581b613eeb628e61.png" group-title="PPV Events",PPV: WRESTLING 01 | Devotion Championship Wrestling, Episode 44 (01.14-7:00PM ET)
@@ -4236,8 +4190,7 @@ http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89435
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89436
 #EXTINF:-1 tvg-id="" tvg-name="MOTORSPORTS S27: Isle of Man TT HL (01.14-8PM ET)" tvg-logo="http://visiona4ktv.online:25461/images/3b7016975fda6e7c3533f876d6c41463.png" group-title="MOTORSPORTS",MOTORSPORTS S27: Isle of Man TT HL (01.14-8PM ET)
 http://hispa-tv.com:25461/h-user/C4U3M6qyfe/89437
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | Tigo Sports " tvg-logo="https://pbs.twimg.com/profile_images/1197301079827976195/sRCIndHu_400x400.jpg" group-title="HONDURAS",HONDURAS | Tigo Sports 
-http://hispa-tv.com:25461/h-user/C4U3M6qyfe/5185
+
 
 
 #
